@@ -1,2 +1,2 @@
 # java-language
-java notes and programs and projects
+java notes and important points 
