@@ -13,5 +13,9 @@ public class primitivePart2 {
     double myMaxDouble = Double.MAX_VALUE;
     System.out.println(myMinDouble);
     System.out.println(myMaxDouble);
+
+    int myInt = 10;
+    float myFloat = 2.582f;
+    double myDouble = 2.5896d;
   }
 }
