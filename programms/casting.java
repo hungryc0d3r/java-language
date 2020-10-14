@@ -6,7 +6,7 @@ public class casting {
     int myInt = 58256;
     byte myByte = 82;
     short myShort = 2586;
-    long myLong = 5283654;
+    long myLong = 5283654L;
    //------------------- casting -----------------------
     int myInt1 = (myInt/2);
     short myShort1 = (short) (myShort/2);
