@@ -17,5 +17,6 @@ public class primitivePart2 {
     int myInt = 10;
     float myFloat = 2.582f;
     double myDouble = 2.5896d;
+    //     float myFloat = 2.582; --> error
   }
 }
