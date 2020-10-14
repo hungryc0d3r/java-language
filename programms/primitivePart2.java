@@ -18,5 +18,9 @@ public class primitivePart2 {
     float myFloat = 2.582f;
     double myDouble = 2.5896d;
     //     float myFloat = 2.582; --> error
+
+    System.out.println(myInt);
+    System.out.println(myFloat);
+    System.out.println(myDouble);
   }
 }
